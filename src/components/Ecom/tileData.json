@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Blue Shirt",
+        "description": "Probably the most random thing you have ever seen!",
+        "imageUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=600,height=800,quality=60,format=auto,fit=cover,g=top/in-resources/22a79ec5-e694-4d7a-ac5a-85c8fa45b7f1/Images/ProductImages/Source/ITMSH01204CobaltLS%20(1).jpg"
+    },
+    {
+        "title": "Sunglasses",
+        "description": "Hello World!",
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hbz-aviators-index1-1517328019.jpg?crop=1.00xw:1.00xh;0,0&resize=980:*"
+    },
+    {
+        "title": "Beard Oil",
+        "description": "Hello World!",
+        "imageUrl": "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9iZWFyZC0tLWhhaXItZ3Jvd3RoLW9pbC1pbWFnZS0wMS02MTA5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MSwiaGVpZ2h0Ijo3MDAsImZpdCI6Im91dHNpZGUifX19"
+    },
+    {
+        "title": "Pants",
+        "description": "Hello World!",
+        "imageUrl": "https://oxfamapps.org.uk/shop-blog/wp-content/uploads/2019/06/shutterstock_564544348-1080x675.jpg"
+    }
+]

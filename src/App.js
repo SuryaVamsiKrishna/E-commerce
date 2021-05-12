@@ -1,24 +1,33 @@
 import logo from './logo.svg';
+import {Router, Switch, Route} from 'react-router-dom'
 import './App.css';
+import { createBrowserHistory } from 'history';
+
+import Ecom from './components/Ecom/Ecom.js';
+import Product from './components/Ecom/Product.js';
+import Home from './components/Ecom/Home.js';
+import Navbar from "./components/Ecom/Navbar";
+
 
 function App() {
+  const history = createBrowserHistory();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    
+  <Router history={history}>
+    <Navbar/>
+      {/* <Navbar click={() => setSideToggle(true)} />
+      <SideDrawer show={sideToggle} click={() => setSideToggle(false)} />
+      <Backdrop show={sideToggle} click={() => setSideToggle(false)} />
+      <main className="app"> */}
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route exact path="/ecom" component={Ecom} />
+          <Route exact path="/ecom/:id" component={Product} />
+          {/* <Route path='/orderhistory' component={OrderHisotyScreen} /> */}
+        </Switch>
+      
+    </Router>
   );
 }
 

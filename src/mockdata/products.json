@@ -1,0 +1,59 @@
+[
+    {
+        "id": "1",
+        "name": "Mens Slim fit Shirt",
+        "imageUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=600,height=800,quality=60,format=auto,fit=cover,g=top/in-resources/22a79ec5-e694-4d7a-ac5a-85c8fa45b7f1/Images/ProductImages/Source/ITMSH01472BURGUNDYLS%20(1).jpg",
+        "description": "A crisp solid shirt is a wardrobe essential for every man. If its burgundy, its even better. This shirt will keep you looking fresh and ready for an event. Pair with beige chinos, brown leather shoes and a belt to finish off the look.",
+        "price": "400",
+        "countInStock": "150"
+    },
+    {
+        "id": "2",
+        "name": "Mens Blue Printed Slim Fit Shirt",
+        "imageUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=600,height=800,quality=60,format=auto,fit=cover,g=top/in-resources/22a79ec5-e694-4d7a-ac5a-85c8fa45b7f1/Images/ProductImages/Source/ITMSH01250SkyLS%20(1).jpg",
+        "description": "Sure to reserve a spot in your core wardrobe, this Mens sky blue slim fit shirt from our Miami collection is crafted from 100% cotton. This printed shirt is elevated by the button-down collar and chest pocket with brand embroidery.",
+        "price": "600",
+        "countInStock": "15"
+    },
+    {
+        "id": "3",
+        "name": "Mens Indigo Solid Slim Fit Shirt",
+        "imageUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=600,height=800,quality=60,format=auto,fit=cover,g=top/in-resources/22a79ec5-e694-4d7a-ac5a-85c8fa45b7f1/Images/ProductImages/Source/ITMSH01600INDIGOLS%20(1).jpg",
+        "description": "A really smart wardrobe essential crafted from exceptional quality fabric, this piece is created for men who like to keep it subtle but classy. Featuring a slim collar and a front button closure, this full sleeve shirt looks dapper when combined with chinos.",
+        "price": "1050",
+        "countInStock": "15"
+    },
+    {
+        "id": "4",
+        "name": "Mens Mint Green Slim Fit Shirt",
+        "imageUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=600,height=800,quality=60,format=auto,fit=cover,g=top/in-resources/22a79ec5-e694-4d7a-ac5a-85c8fa45b7f1/Images/ProductImages/Source/ITMSH01264MintLS%20(1).jpg",
+        "description": "Never settle for ordinary with this Mens mint green shirt from our Capri collection. With its crisp style, this long-sleeve shirt keeps you looking and feeling great all day.",
+        "price": "950",
+        "countInStock": "15"
+    },
+    {
+        "id": "5",
+        "name": "Mens Light Grey Solids Slim Fit Shirt",
+        "imageUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=600,height=800,quality=60,format=auto,fit=cover,g=top/in-resources/22a79ec5-e694-4d7a-ac5a-85c8fa45b7f1/Images/ProductImages/Source/ITMSH02254Light%20GreyLS%20(1).jpg",
+        "description": "Give all your classic black bottom wear a sophisticated piece to pair with. Fashioned in an elegant shade of grey, this solid shirt sports a subtle Indian Terrain branding to the chest, long sleeves and cotton fabrication which speak volumes about the products quality and wearing comfort.",
+        "price": "2080",
+        "countInStock": "15"
+    },
+
+    {
+        "id": "6",
+        "name": "Mens Dark Green Striped Slim Fit Shirt",
+        "imageUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=600,height=800,quality=60,format=auto,fit=cover,g=top/in-resources/22a79ec5-e694-4d7a-ac5a-85c8fa45b7f1/Images/ProductImages/Source/ITMSH01583DARK%20GREENLS%20(1).jpg",
+        "description": "This season upgrade your slim fit collection with this smart striped shirt particularly designed for party evenings and weekend lounging. The slim collar lends an elegant appearance while the cotton-linen fabric blend makes sure you keep it stylish and comfortable all day long.",
+        "price": "40",
+        "countInStock": "15"
+    },
+    {
+        "id": "7",
+        "name": "Mens Olive Solids Slim Fit Linen Shirt",
+        "imageUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=600,height=800,quality=60,format=auto,fit=cover,g=top/in-resources/22a79ec5-e694-4d7a-ac5a-85c8fa45b7f1/Images/ProductImages/Source/ITMSH01626OLIVELS_IT_04.jpg",
+        "description": "Season upgrade your slim fit collection with this smart striped shirt particularly designed for party evenings and weekend lounging. The slim collar lends an elegant appearance while the cotton-linen fabric blend makes sure you keep it stylish and comfortable all day long.",
+        "price": "40",
+        "countInStock": "15"
+    }
+]
